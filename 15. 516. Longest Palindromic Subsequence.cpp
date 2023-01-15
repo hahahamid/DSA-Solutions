@@ -23,7 +23,7 @@ public:
 
 
 
-// SPACE OMTIMIZED 1D ARRAY 
+// SPACE OMTIMIZED 1D ARRAY e
 
 
 
