@@ -1,3 +1,9 @@
+// very similar to almost all the basic BFS problems a
+// and no one cannot use DFS in this case as DFS will traverse to all the connected oranges at a time, 
+// instead we want to know the minimum amount of time, knowing the fact that it takes unit time to rot the connected node which is at a distance of 1 either left or right or up or down, 
+// thus we use BFS ...  
+
+
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
