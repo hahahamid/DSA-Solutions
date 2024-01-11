@@ -49,3 +49,6 @@ public:
 
 
 // No one's is really gonna ask me shit about it. I am anyway going to use this reverse function in solving other questions only 
+
+
+// Update - I was totally wrong! they did ask me this in an interview, Life's Good .  
